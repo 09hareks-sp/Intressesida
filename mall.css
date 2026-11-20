@@ -1,8 +1,6 @@
 body{
 	background-color: #efeadc;
 }
-title{
-	font-size:300%;
 }
 
 a{
@@ -107,21 +105,23 @@ p1{
 h1{
 	color:#580000;
 	font-family:Cinzel;
+	font-size:300%;
 }
 
 h2{
 	color:#580000;
 	font-family:Cinzel;
 	margin:23px;
-	font-size:32px;
+	font-size:96px;
 }
 h3{
 	color:#1e104b;
+	font-size:300%;
 }
 
 p2{
 	color:#696c70;
-	font-size: 17px;
+	font-size: 51px;
 	font-weight: bold;
 	
 }
@@ -130,11 +130,12 @@ p5{
 	text-align:center;
 	padding-left:11%;
 	padding-right:11%;
+	font-size:300%;
 }
 p2:hover{
 	color:#ffffff;
 	background-color:#580000;
-	font-size:125%;
+	font-size:375%;
 
 }
 
